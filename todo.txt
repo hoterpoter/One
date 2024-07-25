@@ -1,1 +1,2 @@
-Learn few lesson of Git!!
+To use some lesson to learn Git
+
